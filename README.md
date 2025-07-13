@@ -2,6 +2,10 @@
 RED-LAN
 resumen
 
+![Imagen de WhatsApp 2025-07-11 a las 06 41 59_3d994e88](https://github.com/user-attachments/assets/b09dca03-c3ea-4a2b-ac1a-5e778ad3e3a7)
+
+
+
 IP: 192.168.1.73
 
 Máscara: /26 (es decir, 255.255.255.192)
