@@ -1,7 +1,6 @@
 # Net-Practice
 RED-LAN
-Ejemplo práctico aplicando el mini-resumen
-Vamos a resolverlo paso a paso con esta IP ficticia:
+resumen
 
 IP: 192.168.1.73
 
